@@ -1,0 +1,30 @@
+body {background-color: brown;}
+
+h1 {color: aliceblue;}
+h2 {color: rgb(0, 0, 0);}
+h3 {color: rgb(113, 134, 134);}
+
+#capa {width: 40%;}
+#posion {width: 25%;}
+#paris {width: 25%;}
+#carolina {width: 25%;}
+#olympea {width: 25%;}
+#dior {width: 25%;}
+#capadois {width: 60%;}
+
+#capa {margin-left: 34% ;}
+#posion {margin-left: 37%;}
+#paris {margin-left: 37%;}
+#carolina {margin-left: 37%;}
+#olympea {margin-left: 37%;}
+#dior {margin-left: 37%;}
+#capadois {margin-left: 24%;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+
+
+h1 {font-size: 250%;}
+h2 {font-size: 190%;}
+h3 {font-size: 100%;}
